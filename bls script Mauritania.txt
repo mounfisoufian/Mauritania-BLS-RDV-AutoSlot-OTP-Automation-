@@ -1,0 +1,21 @@
+Mauritania BLS RDV AutoSlot & OTP Automation 🦋
+
+This userscript is designed to simplify the appointment booking process on the Mauritania BLS RDV portal. It automates the tedious steps of selecting available appointment slots, retrieving the OTP (One-Time Password) from your Gmail inbox, and completing the booking with ease. Perfect for anyone in Mauritania looking to save time and secure an appointment quickly!
+
+Key Features:
+Automated Slot Selection 🗓️: Automatically selects the first available appointment date and time slot on the Mauritania BLS RDV portal.
+OTP Fetching 📥: Fetches the OTP directly from your Gmail inbox, eliminating the need for manual input.
+Email Verification ✅: Automatically enters and verifies the OTP, completing the entire booking process effortlessly.
+Time-Saving ⏱️: Streamlines the booking process, saving you valuable time while securing an appointment, especially during peak demand times.
+Requirements:
+Tampermonkey or Greasemonkey extension installed in your browser.
+A Gmail account to receive the OTP.
+Access to the Mauritania BLS RDV Portal.
+Perfect for Mauritania residents or anyone booking appointments for visa services, this automation tool is a game-changer for managing high-demand BLS slots efficiently! 🌟
+
+Download the Script:
+👉 Click here to download the userscript  https://selar.com/70pt45
+
+Hashtags:
+#MauritaniaBLS #BLSRDV #MauritaniaAppointments #BLSAutomation #OTP #GmailIntegration #TimeSaver #TampermonkeyScript #BookingAutomation #Efficiency
+
